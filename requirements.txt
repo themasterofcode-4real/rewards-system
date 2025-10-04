@@ -3,3 +3,5 @@ tkinterweb==3.12.1
 playsound==1.3.0
 Pillow==10.4.0
 tinydb==4.8.2
+pygame
+shutil
